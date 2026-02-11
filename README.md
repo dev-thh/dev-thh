@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THH&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tehreem%20Fatima&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Student+Software+Engineer+%F0%9F%9A%80;Building+%7C+Breaking+%7C+Fixing+%F0%9F%94%A7;Python+%E2%80%A2+JavaScript+%E2%80%A2+Ruby;Always+Learning+Something+New!)](https://git.io/typing-svg)
 
@@ -16,9 +16,9 @@
 ## 🛠️ Tech Stack
 
 ```python
-class THH:
+class TehreemFatima:
     def __init__(self):
-        self.name = "THH"
+        self.name = "Tehreem Fatima"
         self.role = "Student Software Engineer"
         self.languages = ["Python", "JavaScript", "Ruby", "HTML", "CSS"]
         self.frameworks = ["Ruby on Rails", "React", "Node.js"]
@@ -35,7 +35,7 @@ class THH:
             "building": "Things that solve real problems"
         }
 
-me = THH()
+me = TehreemFatima()
 me.say_hi()
 ```
 
